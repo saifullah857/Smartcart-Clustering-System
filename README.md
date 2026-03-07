@@ -56,4 +56,4 @@ The project uses **K-Means Clustering**, an unsupervised learning algorithm used
 
 ## Author
 
-Rana Saifullah Khalid
+ Saifullah Khalid
